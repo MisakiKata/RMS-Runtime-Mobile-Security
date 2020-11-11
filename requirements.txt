@@ -1,4 +1,4 @@
 frida-tools
 frida
 Flask
-flask_bootstrap
+Flask-SocketIO
